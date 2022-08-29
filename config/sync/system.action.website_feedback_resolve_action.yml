@@ -1,0 +1,13 @@
+uuid: 99f3b07c-8e61-43ee-8d0b-068811340db8
+langcode: en
+status: true
+dependencies:
+  module:
+    - website_feedback
+_core:
+  default_config_hash: 5zvZqcYqJAkUTTX9CXy6gurwZYZ5lrscgTMxVy8rzQs
+id: website_feedback_resolve_action
+label: 'Mark Website Feedback as resolved'
+type: website_feedback
+plugin: website_feedback_resolve_action
+configuration: {  }

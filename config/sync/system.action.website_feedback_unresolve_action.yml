@@ -1,0 +1,13 @@
+uuid: 26307dd0-7866-427e-a2ae-f242d886ea4f
+langcode: en
+status: true
+dependencies:
+  module:
+    - website_feedback
+_core:
+  default_config_hash: 3z7xUX9UNIgpCCXizhh4BxcZKlX2Ibk12NxJsBloWOk
+id: website_feedback_unresolve_action
+label: 'Remove Resolved mark from Website Feedback'
+type: website_feedback
+plugin: website_feedback_unresolve_action
+configuration: {  }

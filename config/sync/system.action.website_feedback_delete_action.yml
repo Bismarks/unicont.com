@@ -1,0 +1,13 @@
+uuid: fcf256ce-f579-4386-adf7-85ac3b0ac27a
+langcode: en
+status: true
+dependencies:
+  module:
+    - website_feedback
+_core:
+  default_config_hash: dkG6SBq-KbPYWw4wPqrCQqBJ-yRRFQ45yKcZQAN2fhE
+id: website_feedback_delete_action
+label: 'Delete Website Feedback'
+type: website_feedback
+plugin: 'entity:delete_action:website_feedback'
+configuration: {  }
