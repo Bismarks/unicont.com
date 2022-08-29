@@ -64,3 +64,4 @@
 *.gz
 *.sql
 /web/modules/contrib
+.DS_Store
